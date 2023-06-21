@@ -1,6 +1,6 @@
 ---
-title: "Probing the origins of human acetylcholinesterase inhibition via QSAR modeling and molecular docking"
-date: 2022-04-04T23:15:00+07:00
+title: "Learning Spark using the Databricks API"
+date: 2023-04-01T23:15:00+00:00
 slug: acetylcholinesterase
 category: projects
 summary:

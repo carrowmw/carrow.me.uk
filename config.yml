@@ -1,6 +1,6 @@
-languageCode: en-us
-baseURL: "//chanin.tech/"
-title: Chanin Nantasenamat
+languageCode: en-gb
+baseURL: "//example/"
+title: Carrow Morris-Wiltshire
 paginate: 5
 theme: PaperMod
 
@@ -17,10 +17,10 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ChaninNantasenamat
-  description: "This is the website of Chanin Nantasenamat, Ph.D. and I create educational content on data science. Some of you may know me as the **Data Professor**."
-  keywords: [Blog, Portfolio, Data Science]
-  author: Chanin Nantasenamat
+  title: Carrow Morris-Wiltshire
+  description: "I am a PhD student studying Geospatial Data Science at the EPSRC funded Geospatial Systems Centre for Doctoral Training located at Newcastle University. My research focuses on the study of emergent dynamics in complex systems, with a specific focus on urban transport."
+  keywords: [Blog, Portfolio, Data Science, Geospatial, CDT, Statistics]
+  author: Carrow WB Morris-Wiltshire
   # author: ["Me", "You"] # multiple authors
   #images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -41,21 +41,19 @@ params:
   tocopen: false
 
   label:
-    text: "Chanin Nantasenamat"
-    icon: "images/coding.png"
-    iconHeight: 35
+    text: "Carrow Morris-Wiltshire"
+    icon: "images/icon.png"
+    iconHeight: 32
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "Welcome! \U0001F44B"
-    subtitle: "This is the website of **Chanin Nantasenamat, Ph.D.** and
-    I create educational content on data science and bioinformatics.
-    Some of you may know me as the **Data Professor**."
-    imageUrl: "images/dp.png"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: "Data Professor"
+    title: "\U0001F44B"
+    subtitle: "Here you can find my academic work (see projects), my CV if your interesting in paying me a large sum of money (see about), as well as some mad ramblings about whatever crosses my mind (see blogs)."
+    imageUrl: "images/dp1.png"
+    imageWidth: 256
+    imageHeight: 256
+    imageTitle: "Me"
     buttons:
       - name: Blogs
         url: blogs
@@ -64,24 +62,18 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Welcome! \U0001F44B"
-    Content: "This is the website of **Chanin Nantasenamat, Ph.D.** and
-    I create educational content on data science and bioinformatics.
-    Some of you may know me as the **Data Professor**."
+    Title: "\U0001F44B"
+    Content: "Here you can find my academic work (see projects), my CV if your interesting in paying me a large sum of money (see about), as well as some mad ramblings about whatever crosses my mind (see blogs)."
 
   socialIcons:
-    - name: youtube
-      url: "http://youtube.com/dataprofessor"
-    - name: medium
-      url: "https://medium.com/@data-professor"
     - name: twitter
-      url: "https://twitter.com/thedataprof"
+      url: "https://twitter.com/CARROWMW"
     - name: linkedin
-      url: "https://www.linkedin.com/in/chanin-nantasenamat/"
+      url: "https://www.linkedin.com/in/carrow-morris-wiltshire-0492b6188/"
     - name: github
-      url: "https://github.com/dataprofessor"
-    - name: buymeacoffee
-      url: "https://www.buymeacoffee.com/dataprofessor"
+      url: "https://github.com/carrowmw"
+    - name: email
+      url: "mailto:carrow.m.w@gmail.com"
 
   analytics:
     google:
@@ -128,10 +120,7 @@ menu:
       name: Projects
       url: /projects/
       weight: 2
-    - identifier: infographics
-      name: Infographics
-      url: /infographics/
-      weight: 3
+
     #- identifier: tags
     #  name: tags
     #  url: /tags/

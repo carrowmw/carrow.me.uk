@@ -4,30 +4,32 @@ date: 2022-04-09T23:15:00+07:00
 slug: about
 category:
 summary:
-description: 
+description:
 cover:
   image:
   alt:
-  caption: 
+  caption:
   relative: true
 showtoc: false
 draft: false
 ---
+### Summary
+As a PhD candidate at the [Geospatial Systems](URL "https://geospatialcdt.ac.uk/") Centre for Doctoral Training, a collaborative initiative between Newcastle University and the University of Nottingham, I am passionately immersed in an industry-driven research environment. My studies are generously funded by the Engineering and Physical Sciences Research Council ([EPSRC](URL "https://www.ukri.org/councils/epsrc/")) and the Defence Science Technology Laboratory ([DSTL](URL "https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory")).
 
-In my daytime, I work as a Developer Advocate at a US Tech company. 
+I am currently pursuing an MRes in Data Science, an integral part of a comprehensive four-year PhD training program. My unique position at the nexus of academia and industry not only facilitates the inventive evolution of my ideas, but also ensures the production of practical and impactful research outcomes.
 
-At night, I'm a content creator developing tutorials in data science for the following platforms:
-- 📺 **YouTube**: [**Data Professor**](https://youtube.com/dataprofessor/), [**Coding Professor**](https://youtube.com/codingprofessor/)
-- 📝 [**Medium Blogs**](https://data-professor.medium.com/).
-- 💻 [**GitHub**](https://github.com/dataprofessor/)
+### Qualifications
+**(in progress)** | Data Science MRes | *Geospatial Systems CDT*
 
-In my previous role, I was an Associate Professor of Bioinformatics carrying out research in computational drug discovery:
-- [**Google Scholar**](https://scholar.google.com/citations?user=df-l7zQAAAAJ&hl=en)
-- [**ORCID**](https://orcid.org/0000-0003-1040-663X)
-- [**SCOPUS**](https://www.scopus.com/authid/detail.uri?authorId=12039071300)
-- [**ResearchGate**](https://www.researchgate.net/profile/Chanin-Nantasenamat-2)
-- **GitHub**: [**chaninn**](https://github.com/chaninn/), [**chaninlab**](https://github.com/chaninlab/)
+**1st Class Honours** | Civil and Structural MEng | *Newcastle University*
 
-You can also connect with me at the following social platforms:
-- [**Twitter**](https://twitter.com/thedataprof)
-- [**LinkedIn**](https://www.linkedin.com/in/chanin-nantasenamat/)
+### Skills
+
+Technical Proficiencies: Python, R, SQL, HTML
+Platforms: PySpark, Azure Databricks, Google Cloud Platform
+Software: ArcGIS, QGIS, PowerBI, MS Suite including Project and Visio
+
+### Experience
+**Verco Global** – Played a key role in developing data management pipelines for the real-estate team, primarily utilizing PowerQuery and PowerBI.
+
+**University of Vermont** – Completed a semester abroad, acquiring a rich understanding of international engineering practices, specifically the various codes and standards prevalent in the US.
