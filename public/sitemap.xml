@@ -2,45 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//chanin.tech/about/</loc>
+    <loc>//example/</loc>
+    <lastmod>2023-04-01T23:15:00+00:00</lastmod>
+  </url><url>
+    <loc>//example/projects/acetylcholinesterase/</loc>
+    <lastmod>2023-04-01T23:15:00+00:00</lastmod>
+  </url><url>
+    <loc>//example/projects/</loc>
+    <lastmod>2023-04-01T23:15:00+00:00</lastmod>
+  </url><url>
+    <loc>//example/about/</loc>
     <lastmod>2022-04-09T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>//chanin.tech/infographics/</loc>
+    <loc>//example/infographics/</loc>
     <lastmod>2022-04-09T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>//chanin.tech/blogs/</loc>
+    <loc>//example/blogs/</loc>
     <lastmod>2022-04-08T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>//chanin.tech/</loc>
+    <loc>//example/blogs/how-to-master-streamlit-for-data-science/</loc>
     <lastmod>2022-04-08T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>//chanin.tech/blogs/how-to-master-streamlit-for-data-science/</loc>
-    <lastmod>2022-04-08T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>//chanin.tech/projects/</loc>
+    <loc>//example/projects/reproducible-computational-drug-discovery/</loc>
     <lastmod>2022-04-06T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>//chanin.tech/projects/reproducible-computational-drug-discovery/</loc>
-    <lastmod>2022-04-06T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>//chanin.tech/projects/erpred/</loc>
+    <loc>//example/projects/erpred/</loc>
     <lastmod>2022-04-05T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>//chanin.tech/projects/acetylcholinesterase/</loc>
-    <lastmod>2022-04-04T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>//chanin.tech/blogs/what-is-bioinformatics/</loc>
+    <loc>//example/blogs/what-is-bioinformatics/</loc>
     <lastmod>2022-04-03T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>//chanin.tech/tags/first/</loc>
+    <loc>//example/tags/first/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>//chanin.tech/page/</loc>
+    <loc>//example/page/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>//chanin.tech/tags/</loc>
+    <loc>//example/tags/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>//chanin.tech/categories/</loc>
+    <loc>//example/categories/</loc>
   </url>
 </urlset>
