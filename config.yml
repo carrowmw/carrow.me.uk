@@ -1,5 +1,8 @@
 languageCode: en-gb
-baseURL: https://carrowmw.github.io/carrow.io/
+baseURL: "http://localhost:1313/" # For local testing
+# or
+# baseURL: "https://carrowmw.github.io/carrow.me.uk/" # For GitHub Pages
+
 title: CMW
 paginate: 5
 theme: PaperMod
@@ -88,11 +91,11 @@ params:
     enabled: true
     title: Carrow Morris-Wiltshire
     subtitle: >
-      For the academic work I have undertaken as part of my postgraduate journey visit [Projects](/carrow.io/projects/).
+      For the academic work I have undertaken as part of my postgraduate journey visit [Projects](/projects/).
 
-      To view my CV - in case you are interested in paying me large sums of money - go to [About](/carrow.io/about/).
+      To view my CV - in case you are interested in paying me large sums of money - go to [About](/about/).
 
-      For half-mad ramblings about whatever crosses my mind, see [Posts](/carrow.io/posts/).
+      For half-mad ramblings about whatever crosses my mind, see [Posts](/posts/).
 
     imageUrl: images/picture_bow.png  # Add the relative path to your image in the static folder
     imageWidth: 200  # Set the width of the image as you desire
@@ -101,9 +104,9 @@ params:
 
     buttons:
         - name: Projects
-          url: /carrow.io/projects/
+          url: /projects/
         - name: Posts
-          url: /carrow.io/posts/
+          url: /posts/
 
 
   # home-info mode
@@ -165,19 +168,19 @@ menu:
   main:
     - identifier: about
       name: About
-      url: /carrow.io/about/
+      url: /about/
       weight: 1
     - identifier: posts
       name: Posts
-      url: /carrow.io/posts/
+      url: /posts/
       weight: 2
     - identifier: projects
       name: Projects
-      url: /carrow.io/projects/
+      url: /projects/
       weight: 3
     - identifier: search
       name: Search
-      url: /carrow.io/search/
+      url: /search/
       weight: 4
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
