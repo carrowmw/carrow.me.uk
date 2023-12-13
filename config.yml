@@ -66,6 +66,7 @@ params:
     - about
     - projects
     - post
+    - other
 
   assets:
     # Disables highlight.js, using Hugo Chroma instead
@@ -101,7 +102,7 @@ params:
     buttons:
       - name: Projects
         url: projects
-      - name: post
+      - name: Posta
         url: posts
 
   # home-info mode

@@ -25,7 +25,7 @@ Real-Time Prediction of Spatiotemporal Dynamics in the Built Environment: An AI 
 
 **Executive Summary**
 
-[Link to PhD Project Summary](/summary/)
+[Link to PhD Project Summary](/other/summary)
 
 ### Qualifications
 **(in progress)** | PhD in Digital Twins for Urban Systems | *Geospatial Systems CDT*
