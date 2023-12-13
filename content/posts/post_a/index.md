@@ -1,6 +1,6 @@
 ---
 title: "How to make a minimalist presentation"
-date: 2023-012-13T23:15:00+00:00
+date: 2023-12-13T23:15:00+00:00
 slug: minimalist-presentation
 category: projects
 summary: "Learn the art of creating a powerful minimalist presentation using custom-generated visuals."
