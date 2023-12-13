@@ -2,7 +2,7 @@
 title: "Marketing and Moloch"
 date: 2023-12-13T23:15:00+00:00
 slug: marketing
-category: projects
+category: posts
 summary: "Random thoughts about the impact of game theory on societal systems like marketing"
 description: "This post explores ideas of game theory and how they relate to marketing."
 cover:

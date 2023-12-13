@@ -1,5 +1,5 @@
 languageCode: en-gb
-baseURL: //example/
+baseURL: https://carrowmw.github.io/carrow.io/
 title: CMW
 paginate: 5
 theme: PaperMod
@@ -65,7 +65,7 @@ params:
   mainSections:
     - about
     - projects
-    - post
+    - posts
     - other
 
   assets:
@@ -88,22 +88,23 @@ params:
     enabled: true
     title: Carrow Morris-Wiltshire
     subtitle: >
-      For the academic work I have undertaken as part of my postgraduate journey visit *[Projects](/projects/)*.
+      For the academic work I have undertaken as part of my postgraduate journey visit [Projects](/carrow.io/projects/).
 
-      To view my CV - in case you are interested in paying me large sums of money - go to *[About](/about/)*.
+      To view my CV - in case you are interested in paying me large sums of money - go to [About](/carrow.io/about/).
 
-      For half-mad ramblings about whatever crosses my mind, see *[Posts](/posts/)*.
+      For half-mad ramblings about whatever crosses my mind, see [Posts](/carrow.io/posts/).
 
     imageUrl: images/picture_bow.png  # Add the relative path to your image in the static folder
     imageWidth: 200  # Set the width of the image as you desire
     imageHeight: 200  # Set the height of the image as you desire
-    imageTitle: "A descriptive title for your image"  # Optional: add a title to the image
+    imageTitle: ""  # Optional: add a title to the image
 
     buttons:
-      - name: Projects
-        url: projects
-      - name: Posta
-        url: posts
+        - name: Projects
+          url: /carrow.io/projects/
+        - name: Posts
+          url: /carrow.io/posts/
+
 
   # home-info mode
   homeInfoParams:
@@ -164,19 +165,19 @@ menu:
   main:
     - identifier: about
       name: About
-      url: /about/
+      url: /carrow.io/about/
       weight: 1
-    - identifier: post
+    - identifier: posts
       name: Posts
-      url: /posts/
+      url: /carrow.io/posts/
       weight: 2
     - identifier: projects
       name: Projects
-      url: /projects/
+      url: /carrow.io/projects/
       weight: 3
     - identifier: search
       name: Search
-      url: /search/
+      url: /carrow.io/search/
       weight: 4
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma

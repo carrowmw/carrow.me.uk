@@ -2,7 +2,7 @@
 title: "How to make a minimalist presentation"
 date: 2023-12-13T23:15:00+00:00
 slug: minimalist-presentation
-category: projects
+category: posts
 summary: "Learn the art of creating a powerful minimalist presentation using custom-generated visuals."
 description: "This article explores the impact of minimalist design in presentations and guides you through creating one with custom icons and graphics."
 cover:
