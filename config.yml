@@ -1,7 +1,7 @@
 languageCode: en-gb
-baseURL: "http://localhost:1313/" # For local testing
+# baseURL: "http://localhost:1313/" # For local testing
 # or
-# baseURL: "https://carrowmw.github.io/carrow.me.uk/" # For GitHub Pages
+baseURL: "https://carrowmw.github.io/carrow.me.uk/" # For GitHub Pages
 
 title: CMW
 paginate: 5
