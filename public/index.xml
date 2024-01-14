@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CMW</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on CMW</description>
+    <image>
+      <url>http://localhost:1313/images/icon.png</url>
+      <link>http://localhost:1313/images/icon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 13 Dec 2023 23:15:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to make a minimalist presentation</title>
+      <link>http://localhost:1313/posts/minimalist-presentation/</link>
+      <pubDate>Wed, 13 Dec 2023 23:15:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/minimalist-presentation/</guid>
+      <description>This article explores the impact of minimalist design in presentations and guides you through creating one with custom icons and graphics.</description>
+    </item>
+    
+    <item>
+      <title>Marketing and Moloch</title>
+      <link>http://localhost:1313/posts/marketing/</link>
+      <pubDate>Wed, 13 Dec 2023 23:15:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/marketing/</guid>
+      <description>This post explores ideas of game theory and how they relate to marketing.</description>
+    </item>
+    
+    <item>
+      <title>MRes Project</title>
+      <link>http://localhost:1313/projects/mres/</link>
+      <pubDate>Mon, 28 Aug 2023 23:15:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/mres/</guid>
+      <description>Dissertation for a masters of research in geospatial data science from Newcastle University.</description>
+    </item>
+    
+    <item>
+      <title>MEng Project</title>
+      <link>http://localhost:1313/projects/meng/</link>
+      <pubDate>Fri, 20 May 2022 23:15:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/meng/</guid>
+      <description>My dissertation for my masters degree in civil and structural engineering.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 09 Apr 2022 23:15:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>Summary As a PhD researcher at the Geospatial Systems Centre for Doctoral Training, a collaborative initiative between Newcastle University and the University of Nottingham, I am passionately immersed in an industry-driven research environment. My studies are generously funded by the Engineering and Physical Sciences Research Council (EPSRC) and the Defence Science Technology Laboratory (DSTL).
+I have recently completed an MRes in Geospatial Data Science, an integral part of a comprehensive four-year PhD training program.</description>
+    </item>
+    
+    <item>
+      <title>Summary of PhD Proposal</title>
+      <link>http://localhost:1313/other/summary/</link>
+      <pubDate>Sat, 09 Apr 2022 23:15:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/other/summary/</guid>
+      <description>Real-Time Prediction of Spatiotemporal Dynamics in the Built Environment: An AI and Internet of Things Approach The motivation behind this research stems from the complexities and non-linear behaviors of urban systems, which present significant computational modeling challenges. The study aims to transform cities into inclusive, safe, resilient, and sustainable entities by comprehending urban behavior under various interventions. A critical aspect of this research involves the concept of &amp;lsquo;connected digital twins&amp;rsquo; — detailed digital replicas of physical spaces and processes, contributing to product lifecycle management (PLM) and building information modeling (BIM).</description>
+    </item>
+    
+    
+  </channel>
+</rss>
