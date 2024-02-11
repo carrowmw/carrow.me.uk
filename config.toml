@@ -1,6 +1,10 @@
-baseurl = "http://www.example.com"
+[module]
+[[module.imports]]
+path = "github.com/luizdepra/hugo-coder"
+
+baseurl = "www.carrow.me.uk"
 title = "Home"
-theme = ["custom-coder-mods", "hugo-coder"]
+
 languagecode = "en"
 defaultcontentlanguage = "en"
 
@@ -19,8 +23,6 @@ info = [
     "[About](/about/) if you are interested in paying me large sums of money and need my CV.",
     "",
     "[Posts](/posts/) for half-mad ramblings about anything that crosses my mind.",
-
-    "Carrow",
 ]
 
 author = "Carrow Morris-Wiltshire"
