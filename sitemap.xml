@@ -2,40 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://carrowmw.github.io/carrow.me.uk/</loc>
+    <loc>http://www.example.com/</loc>
+    <lastmod>2024-01-20T23:12:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.example.com/projects/phd_proposal/</loc>
+    <lastmod>2024-01-20T23:12:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.example.com/projects/</loc>
+    <lastmod>2024-01-20T23:12:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.example.com/other/</loc>
+    <lastmod>2024-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.example.com/other/phd_proposal/</loc>
+    <lastmod>2024-01-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://www.example.com/posts/minimalist-presentation/</loc>
     <lastmod>2023-12-13T23:15:00+00:00</lastmod>
   </url><url>
-    <loc>https://carrowmw.github.io/carrow.me.uk/posts/minimalist-presentation/</loc>
+    <loc>http://www.example.com/posts/</loc>
     <lastmod>2023-12-13T23:15:00+00:00</lastmod>
   </url><url>
-    <loc>https://carrowmw.github.io/carrow.me.uk/posts/marketing/</loc>
-    <lastmod>2023-12-13T23:15:00+00:00</lastmod>
+    <loc>http://www.example.com/posts/marketing/</loc>
+    <lastmod>2023-10-03T23:12:00+00:00</lastmod>
   </url><url>
-    <loc>https://carrowmw.github.io/carrow.me.uk/posts/</loc>
-    <lastmod>2023-12-13T23:15:00+00:00</lastmod>
-  </url><url>
-    <loc>https://carrowmw.github.io/carrow.me.uk/projects/mres/</loc>
+    <loc>http://www.example.com/projects/mres/</loc>
     <lastmod>2023-08-28T23:15:00+00:00</lastmod>
   </url><url>
-    <loc>https://carrowmw.github.io/carrow.me.uk/projects/</loc>
-    <lastmod>2023-08-28T23:15:00+00:00</lastmod>
-  </url><url>
-    <loc>https://carrowmw.github.io/carrow.me.uk/projects/meng/</loc>
+    <loc>http://www.example.com/projects/meng/</loc>
     <lastmod>2022-05-20T23:15:00+00:00</lastmod>
   </url><url>
-    <loc>https://carrowmw.github.io/carrow.me.uk/about/</loc>
+    <loc>http://www.example.com/about/</loc>
     <lastmod>2022-04-09T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>https://carrowmw.github.io/carrow.me.uk/other/</loc>
+    <loc>http://www.example.com/other/summary/</loc>
     <lastmod>2022-04-09T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>https://carrowmw.github.io/carrow.me.uk/other/summary/</loc>
-    <lastmod>2022-04-09T23:15:00+07:00</lastmod>
+    <loc>http://www.example.com/authors/</loc>
   </url><url>
-    <loc>https://carrowmw.github.io/carrow.me.uk/categories/</loc>
+    <loc>http://www.example.com/categories/</loc>
   </url><url>
-    <loc>https://carrowmw.github.io/carrow.me.uk/search/</loc>
+    <loc>http://www.example.com/search/</loc>
   </url><url>
-    <loc>https://carrowmw.github.io/carrow.me.uk/tags/</loc>
+    <loc>http://www.example.com/series/</loc>
+  </url><url>
+    <loc>http://www.example.com/tags/</loc>
   </url>
 </urlset>
