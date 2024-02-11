@@ -1,0 +1,10 @@
+<h1>{{ .Site.Params.author }}</h1>
+{{ if reflect.IsSlice .Site.Params.info }}
+<ul> <!-- Start of the unordered list -->
+    {{ range .Site.Params.info }}
+    <li>{{ . | markdownify }}</li> <!-- Each item as a list item -->
+    {{ end }}
+</ul> <!-- End of the unordered list -->
+{{ else }}
+<h2>{{ .Site.Params.info | markdownify }} </h2>
+{{ end }}

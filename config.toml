@@ -1,6 +1,6 @@
 baseurl = "http://www.example.com"
-title = "Carrow Morris-Wiltshire"
-theme = "hugo-coder"
+title = "Home"
+theme = ["custom-coder-mods", "hugo-coder"]
 languagecode = "en"
 defaultcontentlanguage = "en"
 
@@ -12,10 +12,17 @@ disqusShortname = "yourdiscussshortname"
 style = "github-dark"
 
 [params]
-info = "For the academic work I have undertaken as part of my postgraduate journey visit [Projects](/projects/). To view my CV - in case you are interested in paying me large sums of money - go to [About](/about/). For half-mad ramblings about whatever crosses my mind, see [Posts](/posts/)."
+info = [
+    "",
+    "[Projects](/projects/) for the academic work I have undertaken.",
+    "",
+    "[About](/about/) if you are interested in paying me large sums of money and need my CV.",
+    "",
+    "[Posts](/posts/) for half-mad ramblings about anything that crosses my mind.",
+]
 
 author = "Carrow Morris-Wiltshire"
-description = "John Doe's personal website"
+description = "Carrow's personal website"
 keywords = "blog,developer,personal"
 avatarurl = "images/picture_bow.png"
 #gravatar = "john.doe@example.com"
@@ -46,17 +53,17 @@ author = "authors"
 name = "Github"
 icon = "fa-brands fa-github fa-2x"
 weight = 1
-url = "https://github.com/johndoe/"
+url = "https://github.com/carrowmw/"
 [[params.social]]
-name = "Gitlab"
-icon = "fa-brands fa-gitlab fa-2x"
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
 weight = 2
-url = "https://gitlab.com/johndoe/"
+url = "https://www.linkedin.com/in/carrow-morris-wiltshire-0492b6188/"
 [[params.social]]
 name = "Twitter"
 icon = "fa-brands fa-twitter fa-2x"
 weight = 3
-url = "https://twitter.com/johndoe/"
+url = "https://twitter.com/carrowmw/"
 
 # Menu links
 [[menu.main]]

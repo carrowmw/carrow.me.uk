@@ -23,24 +23,24 @@ I have recently completed an MRes in Geospatial Data Science, an integral part o
 **Title**
 Real-Time Prediction of Spatiotemporal Dynamics in the Built Environment: An AI and Internet of Things Approach
 
-**Executive Summary**
+**PhD Project Summary**
 
 [Link to PhD Project Summary](/pdfs/20240111_CMW_PhD_Research_Proposal.pdf)
 
 ### Qualifications
-**(in progress)** | PhD in Digital Twins for Urban Systems | *Geospatial Systems CDT*
+PhD in Digital Twins for Urban Systems | *Geospatial Systems CDT* | **(in progress)**
 
-**Distinction** | Data Science MRes | *Newcastle University*
+Data Science MRes | *Newcastle University* | **Distinction**
 
-**1st Class Honours** | Civil and Structural MEng | *Newcastle University*
+Civil and Structural MEng | *Newcastle University* | **1st Class Honours**
 
 ### Skills
 
-*Technical Proficiencies:* **Python**, **R**, **SQL**, **HTML**, **PySpark**
+*Technical Proficiencies:* Python, R, SQL, HTML, PySpark
 
-*Cloud Platforms:* **Google Cloud Platform**
+*Cloud Platforms:* Google Cloud Platform
 
-*Software:* **Arc/QGIS**, **PowerBI**, **MS Suite including Project and Visio**
+*Software:* Arc/QGIS, PowerBI, MS Suite including Project and Visio
 
 ### Experience
 **Verco Global** – Played a key role in developing data management pipelines for the real-estate team, primarily utilising PowerQuery and PowerBI.
@@ -49,7 +49,7 @@ Real-Time Prediction of Spatiotemporal Dynamics in the Built Environment: An AI 
 
 ### Academic Projects
 
-**MEng Final Project 2022** - Analysis of ammenity access for each household in Newcastle upon Tyne.
+**MEng Final Project 2022** - Analysis of amenity access for each household in Newcastle upon Tyne.
 
 **MRes Final Project 2023** - Anomaly detection for urban observatory internet enabled sensors using machine learning.
 
