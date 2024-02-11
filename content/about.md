@@ -42,6 +42,8 @@ Civil and Structural MEng | *Newcastle University* | **1st Class Honours**
 
 *Software:* Arc/QGIS, PowerBI, MS Suite including Project and Visio
 
+*Non-technical:* Certified Mental Health First Aider
+
 ### Experience
 **Verco Global** – Played a key role in developing data management pipelines for the real-estate team, primarily utilising PowerQuery and PowerBI.
 
