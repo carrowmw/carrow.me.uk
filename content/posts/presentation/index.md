@@ -14,6 +14,8 @@ showtoc: true
 draft: false
 ---
 
+![image](img/thumbnail.png "Cover")
+
 # How to Make a Minimalist Presentation
 
 Do you struggle to keep your presentations on a single visual theme? I personally waste a lot of time when making presentations fussing over the small visual details to ensure continuity. Then someone pointed out that if you make you presentations mostly black and white, with maybe splashes of colour to show emphasis can be a powerful way of visually building a presentation. There was always one roadblock to this approach for me however - where to get any icon of a similar design for free on the internet. ChatGPT is the obvious go to so I put it to work making some images for my presentation. By leveraging AI, you can generate a suite of matching visuals that can transform your presentation. Here’s how I did it for my latest project.

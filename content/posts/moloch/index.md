@@ -1,6 +1,6 @@
 ---
 title: "Marketing and Moloch"
-date: 2023-12-13T23:15:00+00:00
+date: 2023-10-03T23:12:00+00:00
 slug: marketing
 category: posts
 summary: "Random thoughts about the impact of game theory on societal systems like marketing"
@@ -14,6 +14,7 @@ showtoc: true
 draft: false
 ---
 
+![image](img/thumbnail.png "Cover")
 
 # Abstract
 Just the other day, I found myself in conversation with my cousin, pondering a seemingly absurd yet intriguing question: What would the world look like if marketing was illegal? This might seem like a frivolous thought exercise, but it opened up a labyrinth of considerations about marketing's pervasive influence on our lives and its slippery nature that defies concrete definition.
