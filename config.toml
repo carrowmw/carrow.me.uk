@@ -1,9 +1,9 @@
+baseurl = "www.carrow.me.uk"
+title = "C M W"
+
 [module]
 [[module.imports]]
 path = "github.com/luizdepra/hugo-coder"
-
-baseurl = "www.carrow.me.uk"
-title = "Home"
 
 languagecode = "en"
 defaultcontentlanguage = "en"
