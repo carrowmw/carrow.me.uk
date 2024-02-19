@@ -20,9 +20,9 @@ info = [
     "",
     "[Projects](/projects/) for the academic work I have undertaken.",
     "",
-    "[About](/about/) if you are interested in paying me large sums of money and need my CV.",
-    "",
-    "[Posts](/posts/) for half-mad ramblings about anything that crosses my mind.",
+    "[About](/about/) for my CV.",
+    # "",
+    # "[Posts](/posts/) for half-mad ramblings about anything that crosses my mind.",
 ]
 
 author = "Carrow Morris-Wiltshire"
@@ -70,10 +70,10 @@ weight = 3
 url = "https://twitter.com/carrowmw/"
 
 # Menu links
-[[menu.main]]
-name = "Blog"
-weight = 1
-url = "posts/"
+# [[menu.main]]
+# name = "Blog"
+# weight = 1
+# url = "posts/"
 [[menu.main]]
 name = "About"
 weight = 2
