@@ -30,7 +30,7 @@ I have recently completed an MRes in Geospatial Data Science, an integral part o
 ### Qualifications
 PhD in Digital Twins for Urban Systems | *Geospatial Systems CDT* | **(in progress)**
 
-Data Science MRes | *Newcastle University* | **Distinction**
+Geospatial Data Science MRes | *Newcastle University* | **Distinction**
 
 Civil and Structural MEng | *Newcastle University* | **1st Class Honours**
 
