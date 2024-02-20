@@ -15,7 +15,7 @@ draft: false
 ---
 ### Summary
 
-As a PhD researcher at the [Geospatial Systems](URL "https://geospatialcdt.ac.uk/") Centre for Doctoral Training, a collaborative initiative between Newcastle University and the University of Nottingham, I am passionately immersed in an industry-driven research environment. My studies are generously funded by the Engineering and Physical Sciences Research Council ([EPSRC](URL "https://www.ukri.org/councils/epsrc/")) and the Defence Science Technology Laboratory ([DSTL](URL "https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory")).
+As a PhD researcher at the [Geospatial Systems](https://geospatialcdt.ac.uk/) Centre for Doctoral Training, a collaborative initiative between Newcastle University and the University of Nottingham, I am passionately immersed in an industry-driven research environment. My studies are generously funded by the Engineering and Physical Sciences Research Council ([EPSRC](https://www.ukri.org/councils/epsrc/)) and the Defence Science Technology Laboratory ([DSTL](https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory)).
 
 I have recently completed an MRes in Geospatial Data Science, an integral part of a comprehensive four-year PhD training program. My unique position at the nexus of academia and industry not only facilitates the inventive evolution of my ideas, but also ensures the production of tractable, practical, and impactful research outcomes.
 
