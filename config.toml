@@ -28,7 +28,7 @@ info = [
 author = "Carrow Morris-Wiltshire"
 description = "Carrow's personal website"
 keywords = "blog,developer,personal"
-avatarurl = "images/picture_bow.png"
+avatarurl = "images/profile.jpeg"
 #gravatar = "john.doe@example.com"
 
 faviconSVG = "/img/favicon.svg"

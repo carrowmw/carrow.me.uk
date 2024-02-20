@@ -14,18 +14,18 @@ showtoc: false
 draft: false
 ---
 ### Summary
+
 As a PhD researcher at the [Geospatial Systems](URL "https://geospatialcdt.ac.uk/") Centre for Doctoral Training, a collaborative initiative between Newcastle University and the University of Nottingham, I am passionately immersed in an industry-driven research environment. My studies are generously funded by the Engineering and Physical Sciences Research Council ([EPSRC](URL "https://www.ukri.org/councils/epsrc/")) and the Defence Science Technology Laboratory ([DSTL](URL "https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory")).
 
 I have recently completed an MRes in Geospatial Data Science, an integral part of a comprehensive four-year PhD training program. My unique position at the nexus of academia and industry not only facilitates the inventive evolution of my ideas, but also ensures the production of tractable, practical, and impactful research outcomes.
 
 ### PhD
 
-**Title**
-Real-Time Prediction of Spatiotemporal Dynamics in the Built Environment: An AI and Internet of Things Approach
+**Title:** Real-Time Prediction of Spatiotemporal Dynamics in the Built Environment: An AI and Internet of Things Approach.
 
-**PhD Project Summary**
+[One Page Summary](/other/summary)
 
-[Link to PhD Project Summary](/pdfs/20240111_CMW_PhD_Research_Proposal.pdf)
+[Full PhD proposal](/pdfs/20240111_CMW_PhD_Research_Proposal.pdf)
 
 ### Qualifications
 PhD in Digital Twins for Urban Systems | *Geospatial Systems CDT* | **(in progress)**
@@ -36,13 +36,23 @@ Civil and Structural MEng | *Newcastle University* | **1st Class Honours**
 
 ### Skills
 
-*Technical Proficiencies:* Python, R, SQL, HTML, PySpark
+#### Technical
+
+*Scripting/Programming Languages*: Python, SQL, PySpark, Bash
+
+*ML Frameworks:* PyTorch, Tensorflow
 
 *Cloud Platforms:* Google Cloud Platform
 
-*Software:* Arc/QGIS, PowerBI, MS Suite including Project and Visio
+*Software:* Arc/QGIS, Revit, PowerBI, MS Suite including Project and Visio
 
-*Non-technical:* Certified Mental Health First Aider
+#### Soft Skills
+
+*Verbal Communication:* Demonstrated excellence in verbal and written communication through teaching roles and direct student mentorship in computing and civil engineering. Facilitated complex idea presentations to diverse audiences, receiving commendations for clarity and engagement.
+
+*Project Management:* Led multi-disciplinary teams of up to 20, employing Agile and Waterfall methodologies. Notably managed a sprint with 12 PhD students, in partnership with Airbus and Local Resilience Forums, to create a decision-support web-app for emergency responders, introducing Agile principles to enhance team productivity and ensure project success.
+
+*Other Qualifications:* Certified Mental Health First Aider (MHFA England), providing essential support and fostering a positive mental health environment within the team.
 
 ### Experience
 **Verco Global** – Played a key role in developing data management pipelines for the real-estate team, primarily utilising PowerQuery and PowerBI.
@@ -53,5 +63,5 @@ Civil and Structural MEng | *Newcastle University* | **1st Class Honours**
 
 **MEng Final Project 2022** - Analysis of amenity access for each household in Newcastle upon Tyne.
 
-**MRes Final Project 2023** - Anomaly detection for urban observatory internet enabled sensors using machine learning.
+**MRes Final Project 2023** - Anomaly detection for internet enabled sensors using machine learning.
 

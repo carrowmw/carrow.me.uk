@@ -15,27 +15,12 @@ cover:
 
 showtoc: true
 ---
-![image](img/mres_cover.png "Cover")
+![image](img/mres_cover_thumbnail.png "Cover")
 
-## Links
+## Abstract (AI Generated)
 
-
-## Abstract
-
-Urban observatories are emerging as data powerhouses in many UK cities, marking a transformative era in how we understand and manage urban life. These urban observatories are complex systems that continuously gather a vast array of data from air quality to traffic patterns. However, tapping into this treasure trove of data is not straightforward; it requires specialised skills and resources. Moreover, for this data to benefit the widest possible audience, it needs to be easily accessible and usable—even for those without expert knowledge. One key challenge is the accuracy of the collected data, often compromised by faulty sensors (James, Jonczyk et al. 2022). This dissertation explores how artificial intelligence can step in to automatically identify and label such erroneous data, making urban observatory datasets more reliable and user-friendly.
-
-This dissertation also provides an exploration of anomaly prediction within pedestrian data and its interplay with data quality's influence on model precision. An investigation covering 1,330 model states is undertaken. This includes 190 linear models and 1,140 LSTM models. Key findings and narratives from distinct test objectives have been derived. The implications of this research extend to large-scale urban data repositories, such as urban observatories, marking a significant stride toward harnessing the potential of data-driven situational awareness.
-
-The main findings of this study are:
-*	Univariate models fall short in performance due to low data quality.
-*	Integrating periodicity features reduces MAE in tests with incomplete data.
-*	Multivariate models show a reduced MAE sensitivity to prediction horizon compared to univariate models.
-*	Despite multivariate models achieving lower MAE, their anomaly detection isn't markedly better, potentially due to undertraining.
-*	Multivariate anomaly detection results suggest they might effectively avoid persistent false anomaly labelling post-normal behavior resumption.
-
-There is a significant amount of future work that needs to be done in order to fully understand the effect of data quality on anomaly detection, and recommendations for further work are discussed.
-
+This dissertation presents a novel investigation into the integration and impact of data quality on predictive modeling for urban pedestrian flows. Leveraging a robust analytical framework, it explores the challenges and opportunities presented by urban observatory datasets in forecasting pedestrian movements within city environments. Through meticulous analysis, employing both linear and LSTM (Long Short-Term Memory) models across various states, the study delves into the nuances of anomaly prediction and the critical role of data quality in enhancing model accuracy. Key findings illustrate the limitations of univariate models in the context of pedestrian data, pinpointing the necessity for incorporating periodicity features and addressing data quality issues to improve predictions. The research advances the field of urban data analytics by demonstrating the potential of artificial intelligence to refine situational awareness tools, ultimately facilitating more informed urban planning and management decisions. This work not only contributes to academic discourse on urban informatics but also offers practical insights for policymakers and urban planners aiming to leverage data-driven approaches for city development and pedestrian safety.
 
 ## Full-text article
-[Read article](https://link/articles/2322/)
 
+[Read article](/pdfs/20230914_CMW_Dissertation.pdf)

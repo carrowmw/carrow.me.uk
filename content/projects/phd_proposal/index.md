@@ -16,12 +16,14 @@ cover:
 showtoc: true
 ---
 
-![image](img/thumbnail.png "Cover")
+![image](img/cover_image_thumbnail.png "Cover")
 
 
 # Abstract
-ASDF
+
+[Read article](/other/summary)
 
 
 # Full-text article
+
 [Read article](/pdfs/20240111_CMW_PhD_Research_Proposal.pdf)
