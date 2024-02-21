@@ -18,7 +18,6 @@ showtoc: true
 
 ![image](img/cover_image_thumbnail.png "Cover")
 
-
 # Abstract
 
 ### Real-Time Prediction of Spatiotemporal Dynamics in the Built Environment: An AI and Internet of Things Approach
