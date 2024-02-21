@@ -37,7 +37,9 @@ The research aims to contribute the following to the field of complex systems mo
 
 *	Greater understanding about the real dynamics of complex urban systems.
 *	An enhanced understanding of causality in complex urban systems.
+
 And to deliver the following technical capabilities:
+
 *	A demonstration of value for the data collected by centralised open urban repositories.
 *	Pathways to making this data ‘AI ready’.
 *	A demonstration of a real-time cloud-based web-app that provides useful information derived from the sensor data that can be used for improved decision making.
