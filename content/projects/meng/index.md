@@ -6,7 +6,7 @@ draft: false
 slug: meng
 category: projects
 summary:
-description: My dissertation for my masters degree in civil and structural engineering.
+description: Dissertation for masters degree in civil and structural engineering.
 
 cover:
   image: img/meng_cover_thumbnail.png

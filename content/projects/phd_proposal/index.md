@@ -6,7 +6,7 @@ draft: false
 slug: phd_proposal
 category: projects
 summary:
-description: My proposal for my PhD in AI for Urban Systems.
+description: My proposal for a PhD in Urban Systems.
 
 cover:
   image: img/meng_cover_thumbnail.png
