@@ -23,9 +23,7 @@ I have recently completed an MRes in Geospatial Data Science, an integral part o
 
 **Title:** Real-Time Prediction of Spatiotemporal Dynamics in the Built Environment: An AI and Internet of Things Approach.
 
-[One page summary](/other/summary)
-
-[Full proposal](/pdfs/20240111_CMW_PhD_Research_Proposal.pdf)
+[Proposal Page](/projects/phd_proposal/)
 
 ### Qualifications
 PhD in Digital Twins for Urban Systems | *Geospatial Systems CDT* | **(in progress)**
