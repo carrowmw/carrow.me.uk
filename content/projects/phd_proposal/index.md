@@ -43,7 +43,7 @@ And to deliver the following technical capabilities:
 *	A demonstration of value for the data collected by centralised open urban repositories.
 *	Pathways to making this data ‘AI ready’.
 *	A demonstration of a real-time cloud-based web-app that provides useful information derived from the sensor data that can be used for improved decision making.
-*	A package of code that conforms to best-practice and is built to be compatible with digital urban-twin frameworks such as DAFNI/Gemini.
+*	A package of code that conforms to best-practice and is built to be compatible with urban digital-twin frameworks such as DAFNI/Gemini.
 *	A series of publications showcasing any scientific advancements made by this research.
 
 # Full-text article
