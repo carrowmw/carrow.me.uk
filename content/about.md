@@ -13,6 +13,10 @@ cover:
 showtoc: false
 draft: false
 ---
+### Links
+
+My full CV and pdf download can be found [here](https://carrowmw.github.io/cv/).
+
 ### Summary
 
 As a PhD researcher at the [Geospatial Systems](https://geospatialcdt.ac.uk/) Centre for Doctoral Training, a collaborative initiative between Newcastle University and the University of Nottingham, I am passionately immersed in an industry-driven research environment. My studies are generously funded by the Engineering and Physical Sciences Research Council ([EPSRC](https://www.ukri.org/councils/epsrc/)) and the Defence Science Technology Laboratory ([DSTL](https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory)).
@@ -26,6 +30,7 @@ I have recently completed an MRes in Geospatial Data Science, an integral part o
 [Proposal Page](/projects/phd_proposal/)
 
 ### Qualifications
+
 PhD in Digital Twins for Urban Systems | *Geospatial Systems CDT* | **(in progress)**
 
 Geospatial Data Science MRes | *Newcastle University* | **Distinction**
@@ -36,9 +41,11 @@ Civil and Structural MEng | *Newcastle University* | **1st Class Honours**
 
 #### Technical
 
-*Scripting/Programming Languages*: Python, SQL, PySpark, Bash
+*Scripting/Programming Languages*: Python, R, SQL, PySpark, Bash, PowerQuery
 
 *ML Frameworks:* PyTorch, Tensorflow
+
+*ML Platforms:* Kubeflow
 
 *Cloud Platforms:* Google Cloud Platform
 
@@ -53,7 +60,19 @@ Civil and Structural MEng | *Newcastle University* | **1st Class Honours**
 *Other Qualifications:* Certified Mental Health First Aider (MHFA England), providing essential support and fostering a positive mental health environment within the team.
 
 ### Experience
-**Verco Global** – Played a key role in developing data management pipelines for the real-estate team, primarily utilising PowerQuery and PowerBI.
+
+**Newcastle University, School of Engineering** - Guest Lecturer
+
+- Gave a guest lecture about LSTMs for time series analysis to 3rd year GIS students in the School of Engineering.
+
+**Newcastle University, School of Engineering, School of Computing** - Graduate Teaching Assistent
+
+- Delivered weekly tutorial for 3rd year and masters level civil engineering students.
+- Marked and demonstrated for masters level machine-learning module recieving positive feedback for clearly explaining mathematical concepts behind deep-learning.
+
+**Verco Global** –
+
+- Played a key role in developing data management pipelines for the real-estate team, primarily utilising PowerQuery and PowerBI.
 
 **University of Vermont** – Completed a semester abroad, acquiring a rich understanding of international engineering practices, specifically the various codes and standards prevalent in the US.
 
@@ -62,4 +81,3 @@ Civil and Structural MEng | *Newcastle University* | **1st Class Honours**
 **MEng Final Project 2022** - Analysis of amenity access for each household in Newcastle upon Tyne.
 
 **MRes Final Project 2023** - Anomaly detection for internet enabled sensors using machine learning.
-
