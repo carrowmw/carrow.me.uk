@@ -70,7 +70,7 @@ Civil and Structural MEng | *Newcastle University* | **1st Class Honours**
 - Delivered weekly tutorial for 3rd year and masters level civil engineering students.
 - Marked and demonstrated for masters level machine-learning module recieving positive feedback for clearly explaining mathematical concepts behind deep-learning.
 
-**Verco Global** –
+**Verco Global** – Data Scientist
 
 - Played a key role in developing data management pipelines for the real-estate team, primarily utilising PowerQuery and PowerBI.
 
