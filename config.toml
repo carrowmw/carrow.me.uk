@@ -25,6 +25,7 @@ info = [
     # "[Posts](/posts/) for half-mad ramblings about anything that crosses my mind.",
 ]
 
+
 author = "Carrow Morris-Wiltshire"
 description = "Carrow's personal website"
 keywords = "blog,developer,personal"
@@ -45,6 +46,9 @@ hidecolorschemetoggle = false
 # customCSS = ["css/custom.css"]
 # customSCSS = ["scss/custom.scss"]
 # customJS = ["js/custom.js"]
+
+[params.googleTagManager]
+id = "G-KG2Z01B12C"
 
 [taxonomies]
 category = "categories"
@@ -82,3 +86,7 @@ url = "about/"
 name = "Projects"
 weight = 3
 url = "projects/"
+[[menu.main]]
+name = "WIP"
+weight = 4
+url = "https://carrowmw.github.io/latex-documents/"
