@@ -19,9 +19,7 @@ My full CV and pdf download can be found [here](https://carrowmw.github.io/cv/).
 
 ### Summary
 
-As a PhD researcher at the [Geospatial Systems](https://geospatialcdt.ac.uk/) Centre for Doctoral Training, a collaborative initiative between Newcastle University and the University of Nottingham, I am passionately immersed in an industry-driven research environment. My studies are generously funded by the Engineering and Physical Sciences Research Council ([EPSRC](https://www.ukri.org/councils/epsrc/)) and the Defence Science Technology Laboratory ([DSTL](https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory)).
-
-I have recently completed an MRes in Geospatial Data Science, an integral part of a comprehensive four-year PhD training program. My unique position at the nexus of academia and industry not only facilitates the inventive evolution of my ideas, but also ensures the production of tractable, practical, and impactful research outcomes.
+As a PhD researcher at the [Geospatial Systems](https://geospatialcdt.ac.uk/) Centre for Doctoral Training, a collaborative initiative between Newcastle University and the University of Nottingham, I am passionately immersed in an industry-driven research environment. My studies are funded by the Engineering and Physical Sciences Research Council ([EPSRC](https://www.ukri.org/councils/epsrc/)) and the Defence Science Technology Laboratory ([DSTL](https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory)). I have recently completed the first year of my PhD. My unique position at the nexus of academia and industry not only facilitates the inventive evolution of my ideas, but also ensures the production of tractable, practical, and impactful research outcomes.
 
 ### PhD
 
@@ -31,8 +29,9 @@ I have recently completed an MRes in Geospatial Data Science, an integral part o
 
 ### Qualifications
 
-PhD in Digital Twins for Urban Systems | *Geospatial Systems CDT* | **(in progress)**
+PhD in Digital Twins for Urban Systems | *Geospatial Systems CDT (Newcastle University)* | **(in progress)**
 
-Geospatial Data Science MRes | *Newcastle University* | **Distinction**
+Geospatial Data Science MRes | *Newcastle University School of Engineering* | **Distinction**
 
-Civil and Structural MEng | *Newcastle University* | **1st Class Honours**
+Civil and Structural MEng | *Newcastle University School of Engineering* | **1st Class Honours**
+
