@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on C M W</title>
+    <link>https://carrow.me.uk/projects/</link>
+    <description>Recent content in Projects on C M W</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 20 Jan 2024 23:12:00 +0000</lastBuildDate>
+    <atom:link href="https://carrow.me.uk/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PhD Proposal</title>
+      <link>https://carrow.me.uk/projects/phd_proposal/</link>
+      <pubDate>Sat, 20 Jan 2024 23:12:00 +0000</pubDate>
+      <guid>https://carrow.me.uk/projects/phd_proposal/</guid>
+      <description>Abstract Link to heading Real-Time Prediction of Spatiotemporal Dynamics in the Built Environment: An AI and Internet of Things Approach Link to heading Project aim: To develop an AI system for the prediction of spatiotemporal dynamics in the built environment using near real-time geospatial IoT sensor data.&#xA;RO1: Develop tools to assess the quality of near real-time sensor data. RO2: Assess the spatiotemporal dependency of near real-time sensor data. RO3: Assimilate outputs of agent-based models with real-time sensor data to monitor urban systems in real-time.</description>
+    </item>
+    <item>
+      <title>MRes Project</title>
+      <link>https://carrow.me.uk/projects/mres/</link>
+      <pubDate>Mon, 28 Aug 2023 23:15:00 +0000</pubDate>
+      <guid>https://carrow.me.uk/projects/mres/</guid>
+      <description>Anomalous behaviour detection for data produced by pedestrian sensors. An extensive exploratory analysis of the data is undertaken and a range of predictive models are compared.</description>
+    </item>
+    <item>
+      <title>MEng Project</title>
+      <link>https://carrow.me.uk/projects/meng/</link>
+      <pubDate>Fri, 20 May 2022 23:15:00 +0000</pubDate>
+      <guid>https://carrow.me.uk/projects/meng/</guid>
+      <description>Abstract Link to heading This dissertation evaluates Newcastle&amp;rsquo;s urban accessibility within the &amp;lsquo;15-minute city&amp;rsquo; model, aiming to determine how well the city conforms to ideals of proximity, density, and diversity. Utilising GIS data, pedestrian network analysis, and socio-economic assessments, the study categorises Newcastle&amp;rsquo;s amenities and assesses walkability at various urban scales. Findings reveal areas of strength and opportunities for enhancement in Newcastle&amp;rsquo;s urban fabric, suggesting targeted interventions to improve walkability.</description>
+    </item>
+  </channel>
+</rss>

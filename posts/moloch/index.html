@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>
+  Moloch: The God of Coordination Failure · C M W
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="author" content="Carrow Morris-Wiltshire">
+<meta name="description" content="How moloch affects our everyday lives">
+<meta name="keywords" content="blog,developer,personal">
+
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Moloch: The God of Coordination Failure"/>
+<meta name="twitter:description" content="How moloch affects our everyday lives"/>
+
+<meta property="og:title" content="Moloch: The God of Coordination Failure" />
+<meta property="og:description" content="How moloch affects our everyday lives" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://carrow.me.uk/posts/moloch/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2023-09-03T23:12:00+00:00" />
+<meta property="article:modified_time" content="2023-09-03T23:12:00+00:00" />
+
+
+
+
+
+<link rel="canonical" href="https://carrow.me.uk/posts/moloch/">
+
+
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/css/coder.min.577e3c5ead537873430da16f0964b754a120fd87c4e2203a00686e7c75b51378.css" integrity="sha256-V348Xq1TeHNDDaFvCWS3VKEg/YfE4iA6AGhufHW1E3g=" crossorigin="anonymous" media="screen" />
+
+
+
+
+
+
+  
+    
+    
+    <link rel="stylesheet" href="/css/coder-dark.min.a00e6364bacbc8266ad1cc81230774a1397198f8cfb7bcba29b7d6fcb54ce57f.css" integrity="sha256-oA5jZLrLyCZq0cyBIwd0oTlxmPjPt7y6KbfW/LVM5X8=" crossorigin="anonymous" media="screen" />
+  
+
+
+
+ 
+
+
+
+
+<link rel="icon" type="image/svg+xml" href="/img/favicon.svg" sizes="any">
+<link rel="icon" type="image/png" href="/img/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/img/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+
+
+</head>
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-auto">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="/">
+      C M W
+    </a>
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/about/">About</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/projects/">Projects</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/publications/">Publications</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="https://carrowmw.github.io/latex-documents/">Ongoing</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/posts/">Posts</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/"></a>
+            </li>
+          
+        
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="https://carrow.me.uk/posts/moloch/">
+              Moloch: The God of Coordination Failure
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa-solid fa-calendar" aria-hidden="true"></i>
+              <time datetime="2023-09-03T23:12:00Z">
+                September 3, 2023
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa-solid fa-clock" aria-hidden="true"></i>
+              7-minute read
+            </span>
+          </div>
+          
+          
+          
+        </div>
+      </header>
+
+      <div class="post-content">
+        
+        <h1 id="moloch-the-god-of-coordination-failure">
+  Moloch: The God of Coordination Failure
+  <a class="heading-link" href="#moloch-the-god-of-coordination-failure">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h1>
+<h2 id="introduction">
+  Introduction
+  <a class="heading-link" href="#introduction">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>In ancient Canaanite religion, Moloch was a deity associated with child sacrifice, a horrific practice where the individual good (appeasing the gods) led to collective horror. Today, &ldquo;Moloch&rdquo; has been repurposed as a powerful metaphor for coordination problems in modern society—situations where individually rational actions lead to collectively irrational outcomes. The concept gained prominence through Allen Ginsberg&rsquo;s poem &ldquo;Howl,&rdquo; where Moloch embodied industrial civilisation&rsquo;s dehumanising aspects, and later through Scott Alexander&rsquo;s influential essay &ldquo;Meditations on Moloch,&rdquo; which applied the metaphor to game theory and social systems. This essay explores Moloch-like situations in three contexts: those actively unfolding around us, historical examples that led to systemic breakdown, and instances where humanity successfully avoided Moloch&rsquo;s trap. By understanding these patterns, we might better recognise and combat the coordination failures threatening our collective flourishing.</p>
+<h2 id="moloch-among-us-current-coordination-failures">
+  Moloch Among Us: Current Coordination Failures
+  <a class="heading-link" href="#moloch-among-us-current-coordination-failures">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<h3 id="social-media-and-attention-economics">
+  Social Media and Attention Economics
+  <a class="heading-link" href="#social-media-and-attention-economics">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>Perhaps no modern system better exemplifies Moloch than social media platforms and the attention economy. Each platform is incentivised to maximise user engagement to generate advertising revenue. This leads to algorithmic amplification of emotionally triggering content—often divisive, extreme, or misleading—because it drives higher engagement. Users, meanwhile, are incentivised to create this engaging content to gain visibility. The result? A race to the bottom where the most extreme voices gain prominence, public discourse becomes polarised, and thoughtful nuance gets crowded out—outcomes nobody explicitly desires but emerge from the system&rsquo;s incentive structure. Even platform executives who recognise these harms face enormous pressure from shareholders to maximise quarterly profits, making it difficult to implement reforms that might reduce engagement metrics.</p>
+<h3 id="the-academic-publishing-treadmill">
+  The Academic Publishing Treadmill
+  <a class="heading-link" href="#the-academic-publishing-treadmill">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>In academia, researchers face the infamous &ldquo;publish or perish&rdquo; pressure. Individual scientists are incentivised to publish as many papers as possible in prestigious journals to secure funding, promotion, and tenure. This creates perverse incentives for questionable research practices: slicing research into &ldquo;least publishable units,&rdquo; hyping marginal findings, pursuing fashionable but overcrowded research areas, and sometimes even manipulating data. The collective result? A scientific literature polluted with un-replicable findings, wasted research funds, and talented scientists spending excessive time on grant writing and publication strategies rather than pursuing the most important questions. Everyone in the system—researchers, universities, funding agencies, journals—might prefer a system that prioritises quality and impact over quantity, yet individual incentives push in the opposite direction.</p>
+<h3 id="fast-fashion-and-environmental-degradation">
+  Fast Fashion and Environmental Degradation
+  <a class="heading-link" href="#fast-fashion-and-environmental-degradation">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>The fashion industry exemplifies another ongoing Moloch situation. Clothing companies compete on price and novelty, driving ever-faster production cycles and lower costs. Consumers, seeking affordability and trendiness, reward companies that produce disposable clothing. This creates a race to the bottom: companies outsource to regions with minimal environmental and labor regulations, use low-quality materials, and design for obsolescence rather than durability. The outcome is devastating: textile waste piling up in landfills, microplastics polluting waterways, exploitative labor practices, and massive carbon emissions. Few participants—not the brands, not the consumers, not the workers—would choose this system if given an alternative, yet market forces make it difficult for any single actor to deviate from the pattern.</p>
+<h2 id="when-moloch-wins-historical-system-breakdowns">
+  When Moloch Wins: Historical System Breakdowns
+  <a class="heading-link" href="#when-moloch-wins-historical-system-breakdowns">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<h3 id="the-easter-island-collapse">
+  The Easter Island Collapse
+  <a class="heading-link" href="#the-easter-island-collapse">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>Easter Island (Rapa Nui) provides a stark historical example of Moloch&rsquo;s destructive potential. Archaeological evidence suggests competing clans engaged in statue-building as displays of status and power. This competition incentivised deforestation as trees were cut for transporting and erecting massive stone statues (moai). As resources dwindled, the incentive to harvest remaining trees grew stronger—why preserve trees your rival might use? The result was complete deforestation, leading to soil erosion, declining food production, and ultimately population collapse. No clan wanted ecological destruction, but competitive dynamics made conservation impossible without coordination mechanisms.</p>
+<h3 id="the-great-acceleration-cfcs-and-ozone-depletion">
+  The Great Acceleration: CFCs and Ozone Depletion
+  <a class="heading-link" href="#the-great-acceleration-cfcs-and-ozone-depletion">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>In the mid-20th century, chlorofluorocarbons (CFCs) revolutionised refrigeration and aerosol products. Companies were incentivised to use these chemicals for their efficiency, stability, and low cost. Consumers preferred products using CFCs for their performance and affordability. No individual consumer&rsquo;s choice made a measurable difference to ozone depletion, while the cost of alternatives was immediate and tangible. This created a classic Moloch situation where rational individual choices led toward catastrophe—in this case, the growing hole in the Earth&rsquo;s ozone layer that threatened to increase cancer rates and disrupt ecosystems globally. The market could not solve this problem through individual choices; collective action was necessary.</p>
+<h3 id="the-tragedy-of-the-passenger-pigeon">
+  The Tragedy of the Passenger Pigeon
+  <a class="heading-link" href="#the-tragedy-of-the-passenger-pigeon">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>In 19th century North America, passenger pigeons darkened the skies in flocks of billions. Their abundance made conservation seem unnecessary, while market demand for cheap meat created economic incentives for large-scale hunting. Individual hunters had no incentive to limit their take—any birds they didn&rsquo;t kill would simply be caught by others. Without effective coordination mechanisms, hunting continued unabated, supported by new technologies like the telegraph (which tracked flock movements) and railroads (which transported pigeons to urban markets). The result was the complete extinction of what had been one of the most abundant birds on Earth—an outcome no single actor desired but emerged from the collective failure to manage a common resource.</p>
+<h2 id="escaping-molochs-grasp-coordination-successes">
+  Escaping Moloch&rsquo;s Grasp: Coordination Successes
+  <a class="heading-link" href="#escaping-molochs-grasp-coordination-successes">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<h3 id="the-montreal-protocol-and-ozone-restoration">
+  The Montreal Protocol and Ozone Restoration
+  <a class="heading-link" href="#the-montreal-protocol-and-ozone-restoration">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>While CFCs initially represented a Moloch trap, the international response provides one of history&rsquo;s great examples of escaping coordination failure. The 1987 Montreal Protocol created binding commitments to phase out ozone-depleting substances, with trade sanctions for non-participants (addressing free-rider problems) and financial assistance for developing nations (addressing fairness concerns). The agreement succeeded through several mechanisms: it was universal but acknowledged differentiated responsibilities; it included verification measures; it created positive incentives for compliance; and it adapted over time as new scientific information emerged. The result has been the gradual healing of the ozone layer—demonstrating that with proper coordination mechanisms, even global Moloch problems can be solved.</p>
+<h3 id="nordic-labor-market-models">
+  Nordic Labor Market Models
+  <a class="heading-link" href="#nordic-labor-market-models">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>The &ldquo;Nordic model&rdquo; labor markets in countries like Sweden and Denmark represent another successful escape from potential Moloch traps. In unregulated labor markets, companies face pressure to cut wages and benefits to remain competitive, while workers have incentives to extract maximum concessions through disruptive actions—potentially leading to labor exploitation or destructive cycles of industrial conflict. Instead, these countries developed centralised bargaining systems where industry-wide employer associations negotiate with strong labor unions, with government facilitation. This system takes wages largely out of competition, allowing companies to compete on productivity and innovation rather than labor costs. The result has been high wages, strong worker protections, and robust productivity—a better outcome for all parties compared to the alternative race to the bottom.</p>
+<h3 id="fishery-management-through-catch-shares">
+  Fishery Management Through Catch Shares
+  <a class="heading-link" href="#fishery-management-through-catch-shares">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>Many fisheries worldwide have collapsed from overfishing—a classic tragedy of the commons where individual fishers are incentivised to maximise their catch even as the collective resource dwindles. However, some regions have successfully implemented &ldquo;catch share&rdquo; systems that allocate specific portions of the total sustainable catch to individual fishers or communities. This approach transforms the incentive structure: fishers become stewards with a long-term interest in the fishery&rsquo;s health rather than competitors racing to catch fish before others do. Countries like Iceland, New Zealand, and parts of the United States have seen fishery recoveries using this model, demonstrating that even with a finite shared resource, Moloch can be defeated through mechanisms that align individual and collective interests.</p>
+<h2 id="conclusion-the-ongoing-struggle-against-moloch">
+  Conclusion: The Ongoing Struggle Against Moloch
+  <a class="heading-link" href="#conclusion-the-ongoing-struggle-against-moloch">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>The examples explored in this essay reveal a consistent pattern: Moloch thrives where incentives misalign, information is obscured, trust is lacking, or coordination mechanisms are weak. Yet they also reveal that Moloch is not invincible. Through conscious design of institutions, regulations, cultural norms, and economic incentives, we can create systems that align individual rationality with collective well-being. The struggle against Moloch defines much of human history and will shape our future. Climate change, artificial intelligence governance, antibiotic resistance, and numerous other challenges present Moloch-like dynamics. Success will require us to recognise these patterns and develop coordination mechanisms equal to their complexity.</p>
+<p>Ultimately, Moloch represents not fate but challenge—a challenge to create social technologies as innovative as our material technologies. Our capacity to escape these traps will determine not just our prosperity but potentially our survival as a species. The ancient god demanded sacrifice; the modern metaphor demands something different: imagination, cooperation, and the wisdom to build systems that bring out the best rather than the worst in human nature.</p>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+        
+        
+
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+      2019 -
+    
+    2025
+     Carrow Morris-Wiltshire 
+    ·
+    
+    Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+
+  
+  
+  <script src="/js/coder.min.6ae284be93d2d19dad1f02b0039508d9aab3180a12a06dcc71b0b0ef7825a317.js" integrity="sha256-auKEvpPS0Z2tHwKwA5UI2aqzGAoSoG3McbCw73gloxc="></script>
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KG2Z01B12C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-KG2Z01B12C');
+</script>
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+
+</html>

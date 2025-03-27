@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on C M W</title>
+    <link>https://carrow.me.uk/posts/</link>
+    <description>Recent content in Posts on C M W</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 03 Nov 2024 23:12:00 +0000</lastBuildDate>
+    <atom:link href="https://carrow.me.uk/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Systems Engineering and Happiness</title>
+      <link>https://carrow.me.uk/posts/happiness/</link>
+      <pubDate>Sun, 03 Nov 2024 23:12:00 +0000</pubDate>
+      <guid>https://carrow.me.uk/posts/happiness/</guid>
+      <description>Random thoughts about how systems engineering might be root of happiness</description>
+    </item>
+    <item>
+      <title>Moloch: The God of Coordination Failure</title>
+      <link>https://carrow.me.uk/posts/moloch/</link>
+      <pubDate>Sun, 03 Sep 2023 23:12:00 +0000</pubDate>
+      <guid>https://carrow.me.uk/posts/moloch/</guid>
+      <description>How moloch affects our everyday lives</description>
+    </item>
+  </channel>
+</rss>
